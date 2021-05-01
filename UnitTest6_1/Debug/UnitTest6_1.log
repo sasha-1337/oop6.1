@@ -1,0 +1,24 @@
+﻿  UnitTest6_1.cpp
+D:\Student\oop6.1\oop6.1\Array.h(30,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.h(32,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.h(33,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.h(35,7): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.h(51,18): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.h(54,52): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.h(55,64): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(2,74): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(11,34): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(23,92): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(35,45): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(52,72): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(59,84): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(73,39): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(91,54): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+D:\Student\oop6.1\oop6.1\Array.cpp(121,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Student\oop6.1\oop6.1\Array.cpp(132,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Student\oop6.1\oop6.1\Array.cpp(141,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Student\oop6.1\oop6.1\Array.cpp(150,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Student\oop6.1\oop6.1\Array.cpp(160,20): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Student\oop6.1\oop6.1\Array.cpp(167,20): warning C4018: <: несоответствие типов со знаком и без знака
+     Создается библиотека D:\Student\oop6.1\Debug\UnitTest6_1.lib и объект D:\Student\oop6.1\Debug\UnitTest6_1.exp
+  UnitTest6_1.vcxproj -> D:\Student\oop6.1\Debug\UnitTest6_1.dll
